@@ -1,0 +1,10 @@
+manifest_version: 2
+name: Color Runner
+short_name: Color Runner
+description: "Cheating for colorrun.pl"
+version: "1.0"
+
+content_scripts:
+    - matches:
+        - "http://colorrun.pl/"
+      js: ['runner.js']
