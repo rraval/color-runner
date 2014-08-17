@@ -1,7 +1,7 @@
 Color Runner
 ============
 
-Google Chrome extension to cheat on [http://colorrun.pl](ColorRun). Install from the
+Google Chrome extension to cheat on [ColorRun](http://colorrun.pl). Install from the
 [Chrome Web Store](https://chrome.google.com/webstore/detail/color-runner/fhcjloibeegjnfionmmdenpahahpdamb).
 
 Screenshot
