@@ -4,6 +4,10 @@ Color Runner
 Google Chrome extension to cheat on [http://colorrun.pl](ColorRun). Install from the
 [Chrome Web Store](https://chrome.google.com/webstore/detail/color-runner/fhcjloibeegjnfionmmdenpahahpdamb).
 
+Screenshot
+----------
+![Screenshot](https://raw.github.com/rraval/color-runner/master/screenshot.png)
+
 Build Dependencies
 ------------------
 
